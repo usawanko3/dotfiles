@@ -5,3 +5,6 @@ brew cask install google-chrome
 
 # Editor
 brew cask install atom
+
+# Virtualization
+brew cask install virtualbox
