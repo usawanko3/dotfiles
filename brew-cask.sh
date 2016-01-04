@@ -8,3 +8,4 @@ brew cask install atom
 
 # Virtualization
 brew cask install virtualbox
+brew cask install vagrant
