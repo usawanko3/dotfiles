@@ -7,3 +7,4 @@
   editor:
     invisibles: {}
     fontSize: 16
+    showIndentGuide: true
