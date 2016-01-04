@@ -8,3 +8,4 @@
     invisibles: {}
     fontSize: 16
     showIndentGuide: true
+    showInvisibles: true
