@@ -9,3 +9,5 @@
     fontSize: 16
     showIndentGuide: true
     showInvisibles: true
+  "autocomplete-plus":
+    minimumWordLength: 1
