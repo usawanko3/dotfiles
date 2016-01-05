@@ -9,3 +9,6 @@ brew cask install atom
 # Virtualization
 brew cask install virtualbox
 brew cask install vagrant
+
+# Window management
+brew cask install bettertouchtool
