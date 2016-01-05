@@ -11,3 +11,4 @@
     showInvisibles: true
   "autocomplete-plus":
     minimumWordLength: 1
+    backspaceTriggersAutocomplete: true
