@@ -30,3 +30,10 @@ atom-text-editor {
 atom-text-editor::shadow .cursor {
   // border-color: red;
 }
+
+// Put underline to cursor line
+atom-text-editor::shadow {
+  .cursor-line {
+    border-bottom: 1px solid #fff;
+  }
+}
