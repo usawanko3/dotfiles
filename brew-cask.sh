@@ -15,3 +15,6 @@ brew cask install bettertouchtool
 
 # Terminal
 brew cask install iterm2
+
+# Infrastructure as code
+brew cask install chefdk
