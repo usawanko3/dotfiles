@@ -12,3 +12,6 @@ brew cask install vagrant
 
 # Window management
 brew cask install bettertouchtool
+
+# Terminal
+brew cask install iterm2
