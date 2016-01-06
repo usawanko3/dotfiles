@@ -11,3 +11,4 @@ brew install ruby
 
 # Utility
 brew install tree
+brew install peco
