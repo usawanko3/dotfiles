@@ -12,3 +12,6 @@ apm install linter-foodcritic
 
 # Tags
 apm install symbol-gen
+
+# Git
+apm install git-plus
