@@ -6,6 +6,9 @@ brew install git
 # Shell
 brew install zsh
 
+# Tags
+brew install ctags
+
 # Ruby
 brew install ruby
 
