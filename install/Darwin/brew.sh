@@ -6,6 +6,9 @@ brew install git
 # Shell
 brew install zsh
 
+# Editor
+brew install vim
+
 # Tags
 brew install ctags
 
