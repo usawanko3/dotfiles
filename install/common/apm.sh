@@ -15,3 +15,6 @@ apm install symbol-gen
 
 # Git
 apm install git-plus
+
+# Exec
+apm install script
