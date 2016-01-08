@@ -3,9 +3,9 @@
 #
 
 function peco-select-file() {
-    BUFFER=$(find . | peco)
+    BUFFER="${LBUFFER}$(find . | peco)"
     CURSOR=$#BUFFER
-    zle clear-screen
+    zle -R -c
 }
 
 zle -N peco-select-file
