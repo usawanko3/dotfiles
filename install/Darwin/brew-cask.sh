@@ -18,3 +18,6 @@ brew cask install iterm2
 
 # Infrastructure as code
 brew cask install chefdk
+
+# Utility
+brew cask install the-unarchiver
