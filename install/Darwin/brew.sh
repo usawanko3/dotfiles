@@ -7,7 +7,7 @@ brew install git
 brew install zsh
 
 # Editor
-brew install vim
+brew install vim --with-lua
 
 # Tags
 brew install ctags
