@@ -24,6 +24,10 @@ NeoBundleFetch 'Shougo/neobundle.vim'
 " Completion
 NeoBundle 'Shougo/neocomplete.vim'
 
+" Snippet
+NeoBundle 'Shougo/neosnippet.vim'
+NeoBundle 'Shougo/neosnippet-snippets'
+
 " Utility
 NeoBundle 'Shougo/vimproc.vim', {
 \ 'build' : {
