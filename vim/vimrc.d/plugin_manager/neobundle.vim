@@ -28,6 +28,9 @@ NeoBundle 'Shougo/neocomplete.vim'
 NeoBundle 'Shougo/neosnippet.vim'
 NeoBundle 'Shougo/neosnippet-snippets'
 
+" Ansible
+NeoBundle 'pearofducks/ansible-vim'
+
 " Utility
 NeoBundle 'Shougo/vimproc.vim', {
 \ 'build' : {
