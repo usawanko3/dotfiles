@@ -9,6 +9,9 @@ brew install zsh
 # Editor
 brew install vim --with-lua
 
+# Terminal
+brew install tmux
+
 # Tags
 brew install ctags
 
