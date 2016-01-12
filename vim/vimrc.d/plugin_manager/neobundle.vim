@@ -31,6 +31,9 @@ NeoBundle 'Shougo/neosnippet-snippets'
 " Ansible
 NeoBundle 'pearofducks/ansible-vim'
 
+" Colorscheme
+NeoBundle 'tomasr/molokai'
+
 " Utility
 NeoBundle 'Shougo/vimproc.vim', {
 \ 'build' : {
