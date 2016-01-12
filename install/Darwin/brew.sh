@@ -18,6 +18,9 @@ brew install ctags
 # Ruby
 brew install ruby
 
+# Infrastructure as code
+brew install ansible
+
 # Utility
 brew install tree
 brew install peco
