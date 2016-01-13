@@ -31,6 +31,9 @@ NeoBundle 'Shougo/neosnippet-snippets'
 " Git
 NeoBundle 'tpope/vim-fugitive'
 
+" Puppet
+NeoBundle 'rodjek/vim-puppet'
+
 " Ansible
 NeoBundle 'pearofducks/ansible-vim'
 
