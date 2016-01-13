@@ -6,3 +6,6 @@ smap <expr><TAB> neosnippet#expandable_or_jumpable() ? "\<Plug>(neosnippet_expan
 if has('conceal')
   set conceallevel=2 concealcursor=niv
 endif
+
+" Use vim-snippets
+let g:neosnippet#enable_snipmate_compatibility = 1

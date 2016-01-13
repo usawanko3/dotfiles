@@ -27,6 +27,7 @@ NeoBundle 'Shougo/neocomplete.vim'
 " Snippet
 NeoBundle 'Shougo/neosnippet.vim'
 NeoBundle 'Shougo/neosnippet-snippets'
+NeoBundle 'honza/vim-snippets'
 
 " Git
 NeoBundle 'tpope/vim-fugitive'
