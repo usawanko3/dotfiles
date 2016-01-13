@@ -23,6 +23,7 @@ NeoBundleFetch 'Shougo/neobundle.vim'
 
 " Completion
 NeoBundle 'Shougo/neocomplete.vim'
+NeoBundle 'jiangmiao/auto-pairs'
 
 " Snippet
 NeoBundle 'Shougo/neosnippet.vim'
