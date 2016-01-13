@@ -45,6 +45,9 @@ NeoBundle 'rodjek/vim-puppet'
 " Ansible
 NeoBundle 'pearofducks/ansible-vim'
 
+" Dot command
+NeoBundle 'tpope/vim-repeat'
+
 " Colorscheme
 NeoBundle 'tomasr/molokai'
 
