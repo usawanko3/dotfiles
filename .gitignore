@@ -19,3 +19,6 @@ atom/*
 # Plugins installed by neobundle
 vim/bundle/*
 !vim/bundle/neobundle.vim
+
+# Swam files
+*.swp
