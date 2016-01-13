@@ -6,3 +6,7 @@ set cursorline
 
 " Show line number
 set number
+
+" Highlight popup menu
+highlight Pmenu    ctermbg=gray
+highlight PmenuSel ctermbg=darkcyan
