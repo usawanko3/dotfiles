@@ -28,6 +28,9 @@ NeoBundle 'Shougo/neocomplete.vim'
 NeoBundle 'Shougo/neosnippet.vim'
 NeoBundle 'Shougo/neosnippet-snippets'
 
+" Git
+NeoBundle 'tpope/vim-fugitive'
+
 " Ansible
 NeoBundle 'pearofducks/ansible-vim'
 
