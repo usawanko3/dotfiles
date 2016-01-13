@@ -29,6 +29,9 @@ NeoBundle 'Shougo/neosnippet.vim'
 NeoBundle 'Shougo/neosnippet-snippets'
 NeoBundle 'honza/vim-snippets'
 
+" Alignment
+NeoBundle 'godlygeek/tabular'
+
 " Git
 NeoBundle 'tpope/vim-fugitive'
 
