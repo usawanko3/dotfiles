@@ -3,6 +3,9 @@
 # Chef
 apm install language-chef
 
+# Puppet
+apm install language-puppet
+
 # Serverspec
 apm install serverspec-snippets
 
