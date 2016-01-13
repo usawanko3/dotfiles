@@ -21,3 +21,6 @@ apm install git-plus
 
 # Exec
 apm install script
+
+# Icon
+apm install file-icons
