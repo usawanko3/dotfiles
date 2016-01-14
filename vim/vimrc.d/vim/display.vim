@@ -8,5 +8,5 @@ set cursorline
 set number
 
 " Highlight popup menu
-highlight Pmenu    ctermbg=gray
-highlight PmenuSel ctermbg=darkcyan
+highlight Pmenu    ctermbg=darkgray ctermfg=black
+highlight PmenuSel ctermbg=magenta
