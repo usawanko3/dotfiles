@@ -19,3 +19,6 @@ POWERLEVEL9K_CHANGESET_HASH_LENGTH=6
 
 # Status segment
 POWERLEVEL9K_STATUS_VERBOSE=false
+
+# Use 256 color
+export TERM='xterm-256color'
