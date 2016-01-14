@@ -39,6 +39,9 @@ NeoBundle 'godlygeek/tabular'
 " Git
 NeoBundle 'tpope/vim-fugitive'
 
+" Linter
+NeoBundle 'scrooloose/syntastic'
+
 " Puppet
 NeoBundle 'rodjek/vim-puppet'
 
