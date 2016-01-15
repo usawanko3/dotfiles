@@ -1,3 +1,8 @@
+" Start with insert mode
+call unite#custom#profile('default', 'context', {
+\   'start_insert': 1,
+\})
+
 " Buffer
 nnoremap <silent> <space>ub :<C-u>Unite buffer<CR>
 
