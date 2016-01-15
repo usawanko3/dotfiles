@@ -42,6 +42,9 @@ NeoBundle 'tpope/vim-fugitive'
 " Linter
 NeoBundle 'scrooloose/syntastic'
 
+" Interface
+NeoBundle 'Shougo/unite.vim'
+
 " Puppet
 NeoBundle 'rodjek/vim-puppet'
 
