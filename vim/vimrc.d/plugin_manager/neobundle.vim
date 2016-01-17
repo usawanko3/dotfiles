@@ -39,6 +39,9 @@ NeoBundle 'godlygeek/tabular'
 " Git
 NeoBundle 'tpope/vim-fugitive'
 
+" Ctags
+NeoBundle 'majutsushi/tagbar'
+
 " Linter
 NeoBundle 'scrooloose/syntastic'
 
