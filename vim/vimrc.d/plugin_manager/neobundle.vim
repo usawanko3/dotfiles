@@ -44,6 +44,7 @@ NeoBundle 'scrooloose/syntastic'
 
 " Interface
 NeoBundle 'Shougo/unite.vim'
+NeoBundle 'tsukkee/unite-tag'
 
 " Puppet
 NeoBundle 'rodjek/vim-puppet'
