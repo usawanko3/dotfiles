@@ -12,3 +12,6 @@ nnoremap <silent> <space>ufg :<C-u>Unite file_rec/git<CR>
 
 " Grep
 nnoremap <silent> <space>ug :<C-u>Unite grep -auto-preview<CR>
+
+" Tag
+nnoremap <silent> <space>ut :<C-u>Unite tag -auto-preview<CR>
