@@ -1,3 +1,6 @@
+" Sort tags by position in file
+let g:tagbar_sort = 0
+
 " Keybindings
 nnoremap <silent> <space>tb :<C-u>TagbarToggle<CR>
 
