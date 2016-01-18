@@ -9,3 +9,5 @@ ln -fs ~/dotfiles/vimrc ~/.vimrc
 ln -nfs ~/dotfiles/vim ~/.vim
 
 ln -fs ~/dotfiles/ctags ~/.ctags
+
+ln -fs ~/dotfiles/tmux.conf ~/.tmux.conf
