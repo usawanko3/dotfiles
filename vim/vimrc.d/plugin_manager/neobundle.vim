@@ -55,6 +55,9 @@ NeoBundle 'rodjek/vim-puppet'
 " Ansible
 NeoBundle 'pearofducks/ansible-vim'
 
+" Man
+NeoBundle 'vim-utils/vim-man'
+
 " Dot command
 NeoBundle 'tpope/vim-repeat'
 
