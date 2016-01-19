@@ -1,0 +1,8 @@
+{
+  "SingleKeyJump": {
+      "ShowPrefix": true
+  },
+  "Keymap": {
+    "@": "peco.ToggleSingleKeyJump"
+  }
+}
