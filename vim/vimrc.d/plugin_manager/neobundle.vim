@@ -61,6 +61,9 @@ NeoBundle 'vim-utils/vim-man'
 " Dot command
 NeoBundle 'tpope/vim-repeat'
 
+" Comment
+NeoBundle 'tpope/vim-commentary'
+
 " Colorscheme
 NeoBundle 'tomasr/molokai'
 
