@@ -61,6 +61,9 @@ NeoBundle 'vim-utils/vim-man'
 " Dot command
 NeoBundle 'tpope/vim-repeat'
 
+" Motion
+NeoBundle 'easymotion/vim-easymotion'
+
 " Comment
 NeoBundle 'tpope/vim-commentary'
 
