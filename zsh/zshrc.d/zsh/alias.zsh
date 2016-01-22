@@ -1,5 +1,6 @@
 # Editor
 alias v='vim'
+alias gv='/Applications/MacVim.app/Contents/MacOS/gvim'
 
 # Grep
 alias -g P='| peco'
