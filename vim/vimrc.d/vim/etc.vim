@@ -1,0 +1,2 @@
+" Disable backup
+set nobackup
