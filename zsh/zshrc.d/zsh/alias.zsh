@@ -3,7 +3,7 @@ alias v='vim'
 
 sys_name=`uname`
 if [ $sys_name = 'Darwin' ]; then
-  alias gv='/Applications/MacVim.app/Contents/MacOS/gvim'
+  alias gv='mvim'
 elif [ $sys_name = 'Linux' ]; then
   alias gv='gvim'
 fi
