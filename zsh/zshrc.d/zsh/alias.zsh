@@ -12,6 +12,12 @@ fi
 alias -g P='| peco'
 
 # Ls
-alias l='ls -lG'
-alias la='ls -laG'
-alias lat='ls -latG'
+if [ $sys_name = 'Darwin' ]; then
+  alias l='ls -lG'
+  alias la='ls -laG'
+  alias lat='ls -latG'
+elif [ $sys_name = 'Linux' ]; then
+  alias l='ls -l --color'
+  alias la='ls -la --color'
+  alias lat='ls -lat --color'
+fi
