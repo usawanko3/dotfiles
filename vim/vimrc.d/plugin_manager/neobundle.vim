@@ -49,6 +49,9 @@ NeoBundle 'scrooloose/syntastic'
 NeoBundle 'Shougo/unite.vim'
 NeoBundle 'tsukkee/unite-tag'
 
+" Statusline
+NeoBundle 'itchyny/lightline.vim'
+
 " Puppet
 NeoBundle 'rodjek/vim-puppet'
 
