@@ -12,6 +12,6 @@ fi
 alias -g P='| peco'
 
 # Ls
-alias l='ls -l'
-alias la='ls -la'
-alias lat='ls -lat'
+alias l='ls -lG'
+alias la='ls -laG'
+alias lat='ls -latG'
