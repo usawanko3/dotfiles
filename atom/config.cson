@@ -1,18 +1,22 @@
 "*":
-  "exception-reporting":
-    userId: "07d45b74-05ff-66bb-4800-0c43aa99271d"
-  welcome:
-    showOnStartup: false
+  "atom-ctags": {}
+  "autocomplete-plus":
+    backspaceTriggersAutocomplete: true
+    minimumWordLength: 1
   core:
+    disabledPackages: [
+      "symbols-view"
+    ]
     themes: [
       "one-dark-ui"
       "atom-monokai"
     ]
   editor:
-    invisibles: {}
     fontSize: 16
+    invisibles: {}
     showIndentGuide: true
     showInvisibles: true
-  "autocomplete-plus":
-    minimumWordLength: 1
-    backspaceTriggersAutocomplete: true
+  "exception-reporting":
+    userId: "07d45b74-05ff-66bb-4800-0c43aa99271d"
+  welcome:
+    showOnStartup: false

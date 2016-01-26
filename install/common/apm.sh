@@ -15,6 +15,7 @@ apm install linter-foodcritic
 
 # Tags
 apm install symbol-gen
+apm install atom-ctags
 
 # Git
 apm install git-plus
