@@ -21,3 +21,6 @@ elif [ $sys_name = 'Linux' ]; then
   alias la='ls -la --color'
   alias lat='ls -lat --color'
 fi
+
+# Git
+alias g='git'
