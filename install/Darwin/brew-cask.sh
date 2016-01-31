@@ -22,3 +22,4 @@ brew cask install puppet
 
 # Utility
 brew cask install the-unarchiver
+brew cask install karabiner
