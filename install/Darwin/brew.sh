@@ -18,6 +18,9 @@ brew install ctags
 # Ruby
 brew install ruby
 
+# Json
+brew install jq
+
 # Infrastructure as code
 brew install ansible
 
