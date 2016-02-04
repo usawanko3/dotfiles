@@ -20,6 +20,9 @@ brew cask install iterm2
 brew cask install chefdk
 brew cask install puppet
 
+# Androd
+brew cask install android-file-transfer
+
 # Utility
 brew cask install the-unarchiver
 brew cask install karabiner
