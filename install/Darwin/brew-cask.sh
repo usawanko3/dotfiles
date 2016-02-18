@@ -26,6 +26,10 @@ brew cask install android-file-transfer
 # Utility
 brew cask install the-unarchiver
 brew cask install karabiner
+brew cask install karabiner
 
 # Music
 brew cask install xld
+
+# Iphone
+brew cask install ibackupbot
